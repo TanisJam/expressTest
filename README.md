@@ -2,4 +2,4 @@
 test server with express
 
 
-https://www.google.com.ar/search?q=auto%20azul&tbm=isch
+Call route /trivia/img/'search term' to get an array with the preview of google images search.
